@@ -1,6 +1,6 @@
 ---
-layout: post
-title: TESt publi
+layout: publi
+title: Test publi
 ---
 
 123
