@@ -55,6 +55,12 @@ baseurl: ""
 
 permalink: /:title/
 
+# adding new king of post for publcations
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:name.html
+
 # The release of Jekyll Now that you're using
 version: v1.2.0
 
