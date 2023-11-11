@@ -4,7 +4,17 @@ title: Test
 permalink: /test/
 ---
 
+<div class="publications">
+  {% for post in site.publications %}
+    <article class="publications">
 
-### Hello
+      <h1><a href="{{ site.baseurl }}{{ publications.url }}">{{ publications.title }}</a></h1>
 
-this is a test
+      <div class="entry">
+        {{ publications.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ publications.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
