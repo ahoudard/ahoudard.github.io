@@ -55,6 +55,9 @@ baseurl: ""
 
 permalink: /:title/
 
+# add cusom separator for read-more
+excerpt_separator: <!--more-->
+
 # adding new king of post for publcations
 collections:
   publications:
