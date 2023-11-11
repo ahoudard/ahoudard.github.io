@@ -25,50 +25,50 @@ iteration 400 - elapsed 1042s - loss = 0.17874254286289215
 iteration 450 - elapsed 1162s - loss = 0.17782559990882874  
 DONE - total time is 1292s`
 
-- ![](images/it0-3.png)
+- ![]({{ site.baseurl }}/images/it0-3.png)
     
     iteration 0
     
-- ![](images/it50-2.png)
+- ![]({{ site.baseurl }}/images/it50-2.png)
     
     iteration 50
     
-- ![](images/it100-1.png)
+- ![]({{ site.baseurl }}/images/it100-1.png)
     
     iteration 100
     
-- ![](images/it150-1.png)
+- ![]({{ site.baseurl }}/images/it150-1.png)
     
     iteration 150
     
-- ![](images/it200-1.png)
+- ![]({{ site.baseurl }}/images/it200-1.png)
     
     iteration 200
     
-- ![](images/it250-1.png)
+- ![]({{ site.baseurl }}/images/it250-1.png)
     
     iteration 250
     
-- ![](images/it300-1.png)
+- ![]({{ site.baseurl }}/images/it300-1.png)
     
     iteration 300
     
-- ![](images/it350-1.png)
+- ![]({{ site.baseurl }}/images/it350-1.png)
     
     iteration 350
     
-- ![](images/it400-1.png)
+- ![]({{ site.baseurl }}/images/it400-1.png)
     
     iteration 400
     
-- ![](images/it450-1.png)
+- ![]({{ site.baseurl }}/images/it450-1.png)
     
     iteration 450
     
-- ![](images/synthesized-1.png)
+- ![]({{ site.baseurl }}/images/synthesized-1.png)
     
     synthesized image
     
-- ![](images/original.png)
+- ![]({{ site.baseurl }}/images/original.png)
     
     original image

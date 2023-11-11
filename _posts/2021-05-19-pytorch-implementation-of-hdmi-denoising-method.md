@@ -18,14 +18,14 @@ total runtime: 34s
 PSNR: 29.8940dB
 ```
 
-- ![](images/alley-1.png)
+- ![]({{ site.baseurl }}/images/alley-1.png)
     
     clean image
     
-- ![](images/alley_noisy.png)
+- ![]({{ site.baseurl }}/images/alley_noisy.png)
     
     noisy image
     
-- ![](images/alley_denoised-1.png)
+- ![]({{ site.baseurl }}/images/alley_denoised-1.png)
     
     denoised image

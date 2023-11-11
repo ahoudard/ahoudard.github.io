@@ -11,6 +11,6 @@ Je participerai à la Cérémonie des [Prix de la Fondation Mines-Télécom 2019
 
 J'ai reçu le 3e prix de thèse lors de cette cérémonie :
 
-![](images/Prix-FMT-A-Houdard.jpg)
+![]({{ site.baseurl }}/images/Prix-FMT-A-Houdard.jpg)
 
 Je tiens à remercier la fondation Mines-Télécom ainsi que le programme de financement de thèses Futur & Ruptures !

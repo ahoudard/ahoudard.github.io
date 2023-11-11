@@ -5,7 +5,7 @@ categories:
   - "talk"
 ---
 
-![](images/1.png)
+![]({{ site.baseurl }}/images/1.png)
 
 I presented a talk on June the 21st, 2018 :
 
