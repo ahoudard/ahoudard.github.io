@@ -3,16 +3,16 @@ layout: default
 ---
 
 <div class="publications">
-  {% for publications in site.publications %}
+  {% for public in site.publications %}
     <article class="publications">
 
-      <h1><a href="{{ site.baseurl }}{{ publications.url }}">{{ publications.title }}</a></h1>
+      <h1><a href="{{ site.baseurl }}{{ publi.url }}">{{ publi.title }}</a></h1>
 
       <div class="entry">
-        {{ publications.excerpt }}
+        {{ publi.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ publications.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ publi.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
