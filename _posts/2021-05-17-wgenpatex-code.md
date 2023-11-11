@@ -9,7 +9,7 @@ With the publication in the SSVM 2021 proceeding of our paper [Wasserstein Gener
 
 ## [github.com/ahoudard/wgenpatex](http://github.com/ahoudard/wgenpatex)
 
-Example on my local laptop (core i5 CPU) :
+<!-- Example on my local laptop (core i5 CPU) :
 
 `python run_optim_synthesis.py radishes.png --save  
 cpu  
@@ -71,4 +71,4 @@ DONE - total time is 1292s`
     
 - ![]({{ site.baseurl }}/images/original.png)
     
-    original image
+    original image -->

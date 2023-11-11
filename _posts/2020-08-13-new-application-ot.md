@@ -9,7 +9,7 @@ Some new application of our recent work **Wasserstein Generative Models for Patc
 
 - **Style transfert** using **semi-dual formulation** for minimizing the **OT distance between VGG-19 features**:
 
-[![]({{ site.baseurl }}/images/Miroir_deau_place_de_la_Bourse.jpg)](https://houdard.wp.imt.fr/files/2019/04/Miroir_deau_place_de_la_Bourse.jpg)[![]({{ site.baseurl }}/images/miroir_VG.png)](https://houdard.wp.imt.fr/files/2020/08/miroir_VG.png) [![]({{ site.baseurl }}/images/table_cat_html_html_2ae5e699.jpg)](https://houdard.wp.imt.fr/files/2020/08/table_cat_html_html_2ae5e699.jpg) [![]({{ site.baseurl }}/images/miroir_Guernica.png)](https://houdard.wp.imt.fr/files/2020/08/miroir_Guernica.png)     [![]({{ site.baseurl }}/images/Guernica-.jpg)](https://houdard.wp.imt.fr/files/2020/08/Guernica-.jpg)
+<!-- [![]({{ site.baseurl }}/images/Miroir_deau_place_de_la_Bourse.jpg)](https://houdard.wp.imt.fr/files/2019/04/Miroir_deau_place_de_la_Bourse.jpg)[![]({{ site.baseurl }}/images/miroir_VG.png)](https://houdard.wp.imt.fr/files/2020/08/miroir_VG.png) [![]({{ site.baseurl }}/images/table_cat_html_html_2ae5e699.jpg)](https://houdard.wp.imt.fr/files/2020/08/table_cat_html_html_2ae5e699.jpg) [![]({{ site.baseurl }}/images/miroir_Guernica.png)](https://houdard.wp.imt.fr/files/2020/08/miroir_Guernica.png)     [![]({{ site.baseurl }}/images/Guernica-.jpg)](https://houdard.wp.imt.fr/files/2020/08/Guernica-.jpg) -->
 
 [![]({{ site.baseurl }}/images/miroir_monet.png)](https://houdard.wp.imt.fr/files/2020/08/miroir_monet.png)     [![]({{ site.baseurl }}/images/lilies.jpg)](https://houdard.wp.imt.fr/files/2020/08/lilies.jpg)
 

@@ -5,7 +5,7 @@ categories:
   - "talk"
 ---
 
-![]({{ site.baseurl }}/images/1.png)
+<img src="{{ site.baseurl }}/images/1.png" style="width: 400px;"/>
 
 I presented a talk on June the 21st, 2018 :
 
