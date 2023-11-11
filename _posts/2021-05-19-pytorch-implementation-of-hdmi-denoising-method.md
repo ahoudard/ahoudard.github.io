@@ -9,8 +9,6 @@ I just released a pytorch implementation of the [HDMI denoising method](https://
 
 This version allows to run the EM algorithm and the denoising in about half a minute!
 
-<!--more-->
-
 ```
 python run_HDMI_denoising.py alley.png --stdv 0.1 --n_iter 40 --verbose --gpu
 selected device: cuda
