@@ -1,5 +1,5 @@
 ---
-layout: paper
+layout: publi
 
 year: 2024
 
